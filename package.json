@@ -24,7 +24,7 @@
   "author": "khulnaSoft DevOps <info@khulnasoft.com>",
   "license": "MIT",
   "engines": {
-    "node": ">=14"
+    "node": ">=20.8.1"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^7.14.1",
